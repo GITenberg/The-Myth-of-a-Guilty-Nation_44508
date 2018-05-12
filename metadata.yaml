@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42789'
     url: http://www.gutenberg.org/2009/agents/42789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44508#The-Myth-of-a-Guilty-Nation
 gutenberg_issued: '2013-12-25'
 gutenberg_type: Text
 identifiers:
